@@ -1,0 +1,11 @@
+# Build
+buildDir/
+
+# Editor
+*.swp
+.idea/
+*.iml
+.vscode/
+
+# Example files
+*.pdf
